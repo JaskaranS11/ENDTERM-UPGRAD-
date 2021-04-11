@@ -1,0 +1,43 @@
+body
+{
+    background-image: url('corona.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+h1
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+#Modal
+{
+    background-color: rgb(66, 75, 199);
+    color: antiquewhite;
+    text-align: center;
+    width: 30%;
+    border: 15px ;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 500px;
+    display: none;
+}
+
+td{
+font-size:25px;
+padding: 58px;
+}
+#countryplace{
+    left: 18%;
+    top: 10%;
+    background-color: rgb(113, 236, 252);
+}
+.submitButton{
+    margin-left: 64%;
+    background-color: blue;
+    font-family: 'Calibri';
+}
+.fonts{
+    font-family:  'Calibri';
+}
